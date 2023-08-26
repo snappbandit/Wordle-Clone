@@ -1,3 +1,6 @@
+# To run json server: json-server ./data/db.json --port 3001
+
+# <div>Solution - {solution} </div> <div>Current guess - {currentGuess}</div> 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
